@@ -1,0 +1,11 @@
+Product ID,Category,Price,Units Sold,Rating,Discount,Month
+1,Electronics,250,100,4.5,10%,January
+2,Clothing,50,150,3.8,5%,January
+3,Electronics,200,80,4.2,15%,February
+4,Home,80,60,4,0%,March
+5,Electronics,300,120,4.8,20%,March
+6,Clothing,70,200,4.1,10%,April
+7,Home,150,90,4.4,5%,April
+8,Clothing,60,180,3.9,8%,May
+9,Home,120,110,4.3,12%,May
+10,Electronics,220,95,4.6,10%,June
